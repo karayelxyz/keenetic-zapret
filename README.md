@@ -1,3 +1,5 @@
+Türkçe Anlatım: https://forum.keenetictr.com/d/108-keenetic-cihazlarda-zapret-kurulumu-detayli-anlatim [[Archive]](https://web.archive.org/web/20251122193238/https://forum.keenetictr.com/d/108-keenetic-cihazlarda-zapret-kurulumu-detayli-anlatim)
+
 ## Настройка zapret от bol-van на Keenetic
 
 Инструкция по установке zapret от bol-van на Keenetic предполагает, что OPKG Entware уже установлен.
