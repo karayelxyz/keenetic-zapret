@@ -27,7 +27,7 @@ MDIG=${MDIG:-${ZAPRET_BASE}/mdig/mdig}
 DESYNC_MARK=0x10000000
 IPFW_RULE_NUM=${IPFW_RULE_NUM:-1}
 IPFW_DIVERT_PORT=${IPFW_DIVERT_PORT:-59780}
-DOMAINS=${DOMAINS:-rutracker.org}
+DOMAINS=${DOMAINS:-discord.com}
 CURL_MAX_TIME=${CURL_MAX_TIME:-2}
 CURL_MAX_TIME_QUIC=${CURL_MAX_TIME_QUIC:-$CURL_MAX_TIME}
 MIN_TTL=${MIN_TTL:-1}
@@ -43,8 +43,8 @@ HDRTEMP=/tmp/zapret-hdr.txt
 
 NFT_TABLE=blockcheck
 
-DNSCHECK_DNS=${DNSCHECK_DNS:-8.8.8.8 1.1.1.1 77.88.8.1}
-DNSCHECK_DOM=${DNSCHECK_DOM:-pornhub.com putinhuylo.com rutracker.org www.torproject.org bbc.com}
+DNSCHECK_DNS=${DNSCHECK_DNS:-8.8.8.8 1.1.1.1 9.9.9.9}
+DNSCHECK_DOM=${DNSCHECK_DOM:-discord.com www.torproject.org signal.org}
 DNSCHECK_DIG1=/tmp/dig1.txt
 DNSCHECK_DIG2=/tmp/dig2.txt
 DNSCHECK_DIGS=/tmp/digs.txt
